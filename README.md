@@ -1,4 +1,5 @@
 # learn-vuefire
+Node version 18.18.0
 
 This template should help get you started developing with Vue 3 in Vite.
 
